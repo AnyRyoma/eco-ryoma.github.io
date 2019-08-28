@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/docs/categories/index.html</loc>
+    
+    <lastmod>2019-08-28T01:01:42.177Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/docs/tags/index.html</loc>
+    
+    <lastmod>2019-08-28T01:01:19.570Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/2019/07/28/Hexo-Next%E4%B8%BB%E9%A2%98-%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%BE%8E%E5%8C%96/</loc>
     
     <lastmod>2019-08-27T09:11:37.005Z</lastmod>
@@ -47,20 +61,6 @@
     <loc>/guestbook/index.html</loc>
     
     <lastmod>2019-08-25T08:26:47.907Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/docs/categories/index.html</loc>
-    
-    <lastmod>2019-08-25T08:22:57.899Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/docs/tags/index.html</loc>
-    
-    <lastmod>2019-08-25T08:21:39.251Z</lastmod>
     
   </url>
   
